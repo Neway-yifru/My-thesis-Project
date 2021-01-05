@@ -6,5 +6,5 @@ Contents : Arduino (PIC, STM32, Raspeberryi PI)
          : Electronic speed Controller (ESCX4X30A)
          : Frame
          : Propeller (10X4.5X4)
-         : LIpo-Battery (2200mAh,11.1v)
+         : LIpo-Battery (2200mAh,11.1v).......................................
          
